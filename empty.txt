@@ -1,1 +1,2 @@
-QQ
+test 
+git commit --amend --no-edit
